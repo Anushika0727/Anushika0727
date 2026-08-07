@@ -225,11 +225,11 @@ A full-stack tourism platform integrating hotel booking, transport services, and
 <div align="center">
 
 <a href="https://github.com/Anushika0727">
-<img src="https://github-readme-stats.vercel.app/api?username=Anushika0727&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="180" alt="GitHub Statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anushika0727&theme=github_dark&hide_border=true" height="180" alt="GitHub Statistics" />
 </a>
 
 <a href="https://github.com/Anushika0727">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushika0727&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="180" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anushika0727&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
 </a>
 
 <br/><br/>
